@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 creo en master
+=======
+creo archivo
+>>>>>>> pruebas2
 andrea jimeno
